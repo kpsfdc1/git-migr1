@@ -1,7 +1,7 @@
-class hello
+class hello-lin
 {
-	public static void main()
+	public static void main()	#from linu-user
 	{
-		system.out.println("wind-dev");
+		system.out.println("linx-user");
 	}
 }
