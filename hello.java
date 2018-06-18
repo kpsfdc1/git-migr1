@@ -1,4 +1,4 @@
-class hello-wind
+class hello-wind	##modif
 {
 	public static void main() #from wind-user
 	{
