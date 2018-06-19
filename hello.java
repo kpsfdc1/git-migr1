@@ -1,4 +1,4 @@
-class hello-wind	
+safdasfasclass hello-wind	
 {
 	public static void main() #from wind-user
 	{
